@@ -1,0 +1,29 @@
+body {
+background-color: white;
+ color: black; 
+font-size: 16px;
+font-weight: normal;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ .amirbek {
+    border-radius: 28px;
+    box-shadow: 4px 4px
+ }
+ .info p { 
+    color: red;
+    margin: 0;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: none;
+    text-transform: lowercase;
+    letter-spacing: 1px;
+ }
+
+ .social {
+border-radius: 5px;
+width: 300px;
+text-align: center;
+
+ }
+ 
